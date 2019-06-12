@@ -1,4 +1,4 @@
-library("syuzhet")
+library("syuzhet") 
 library("twitteR")
 library("ROAuth")
 library("tidyverse")
